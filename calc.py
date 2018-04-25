@@ -8,7 +8,7 @@ def mult(x,y):
 Return x*y
 
 def div(x,y):
-pass
+Return x/y
 
 def remainder(x,y)
 return x%y;
